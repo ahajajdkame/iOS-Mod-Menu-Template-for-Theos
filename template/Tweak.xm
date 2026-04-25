@@ -1,4 +1,10 @@
+#define AppName "Ahmedaltaee123's Application"
+#define OwnerID "AaVgqH9eoa"
+#define AppSecret "8a2615bfadb1706820f708242fd6540aa6c5f46c013db54c643ac43aa00aed29"
+#define Version "1.0"
+
 #import "Macros.h"
+
 
 /***********************************************************
   INSIDE THE FUNCTION BELOW YOU'LL HAVE TO ADD YOUR SWITCHES!
